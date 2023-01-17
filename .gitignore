@@ -1,1 +1,5 @@
-config.js
+# ignore all files in the static/js folder
+static/js/*
+
+# except for config.js
+!static/js/config.js
