@@ -1,5 +1,5 @@
 # ignore all files in the static/js folder
-static/js/*
+Earthquake_Challenge/static/js/*
 
 # except for config.js
-!static/js/config.js
+!Earthquake_Challenge/static/js/config.js
