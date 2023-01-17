@@ -1,5 +1,0 @@
-# Earthquake_Challenge
-
-## Overview of Project
-
-### I created a detailed and informative map that effectively illustrates the correlation between tectonic plate boundaries and the location and magnitude of earthquakes with a magnitude greater than 4.5. This map was created by overlaying a map of tectonic plate boundaries on top of a map of earthquake locations and applying a filter to only show earthquakes that met the specified magnitude criteria. This allowed me to effectively visualize the relationship between tectonic plate movements and seismic activity. The map also serves as a valuable tool for the scientific community, as it provides a clear and concise illustration of the correlation between tectonic plate boundaries and the frequency and magnitude of earthquakes. Additionally, the map can be used to inform emergency management officials and aid in disaster preparedness and response planning. Overall, this map serves as a crucial resource for understanding the complex dynamics of the Earth's crust and the relationship between tectonic plate movements and seismic activity.
